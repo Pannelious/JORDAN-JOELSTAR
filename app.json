@@ -1,15 +1,15 @@
 {
-  "name": "𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖",
-  "description": "Hi there, I am 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖  Whatsapp multifunctional bot built in NodeJs by JORDAN to make experience better.\n\t Incase of Any Problem Whatsapp me on: +2349054039891",
-  "logo": "https://telegra.ph/file/8dba6930648b7e170bd0c.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/JORDAN-JOELSTAR/",
-  "app_url": "/JORDAN-JOELSTAR/",
+  "name": "MASTERPEACE 🤖",
+  "description": "Hi there, I am MASTERPEACE 🤖  Whatsapp multifunctional bot built in NodeJs by MASTERPEACE to make experience better.\n\t Incase of Any Problem Whatsapp me on: +263732872101",
+  "logo": "https://telegra.ph/file/b4a13299fe06a1450c1ad.jpg",
+  "keywords": ["whatsappbot", "Masterpeace", "Masterpeace", "Masterpeace-Md", "MasterpeacewhatsBot", "Masterpeace WaBot","Masterpeace MD","Masterpeace Md Whatsapp Bot","multi device"],
+  "success_url": "/MASTERPEACE 2637/",
+  "app_url": "/MASTERPEACE 2637",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝐉𝐎𝐑𝐃𝐀𝐍 𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑",
+      "value": "MASTERPEACE",
       "required" :true
     },   
     
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖"
+      "value": "MASTERPEACE  🤖"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/04e1e12ab2d93f3e7dae4.jpg"
+      "value": "https://telegra.ph/file/b4a13299fe06a1450c1ad.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -61,12 +61,12 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "5826aaa5-a5e6-416d-bd26-bf54274c88f3",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
-      "value": "",
+      "value": "sagarei",
     "required" :true
     }, 
     "WAPRESENCE": {
@@ -91,8 +91,8 @@
     },
     "DISABLE_PM": {
       "description": "Disable bot in pm, Take it false if you wanna run bot in your pm (if MODE is Public)",
-      "value": "true",
-      "required" :true
+      "value": "false",
+      "required" :false
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "2349054039891, 2347061138624"
+      "value": "263732872101, 263788914422"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,16 +128,16 @@
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
       "required" :true,
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁",
+      "value": "MASTERPEACE",
       "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁🤖",
+      "value": "MASTERPEACE🤖",
       "required": true 
     }
   }, 
