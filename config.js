@@ -15,16 +15,16 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github=process.env.GITHUB|| "https://github.com/jamesxtreme/JORDAN-JOELSTAR";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaCamn3BKfi29OjdbG2P";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaCamn3BKfi29OjdbG2P" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/04e1e12ab2d93f3e7dae4.jpg" ; // SET LOGO FOR IMAGE 
+global.github=process.env.GITHUB|| "https://github.com/Pannelious/MASTERPEACE-2637";
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/LIc0X3xdxqB4SLCTRGydcy";
+global.website=process.env.GURL || "https://chat.whatsapp.com/LIc0X3xdxqB4SLCTRGydcy" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/b4a13299fe06a1450c1ad.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
-global.devs = "2349054039891" // Developer Contact
+global.devs = "263732872101" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "admin";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2349054039891";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "263732872101";
 
 
 
@@ -64,12 +64,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©JORDAN-JOELSTAR 🕸️" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"),
+  caption : process.env.CAPTION || "©MASTERPEACE 🕸️" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Masterpeace ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://chat.whatsapp.com/LIc0X3xdxqB4SLCTRGydcy"),
  
-  author : process.env.PACK_AUTHER|| "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁🤖",
-  packname: process.env.PACK_NAME || "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁🤖",
-  botname : process.env.BOT_NAME  || "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖",
-  ownername:process.env.OWNER_NAME|| "JORDAN JOELSTAR",
+  author : process.env.PACK_AUTHER|| "MASTERPEACE🤖",
+  packname: process.env.PACK_NAME || "MASTERPEACE🤖",
+  botname : process.env.BOT_NAME  || "MASTERPEACE 🤖",
+  ownername:process.env.OWNER_NAME|| "MASTERPEACE",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
@@ -77,15 +77,15 @@ module.exports = {
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "diVYfA5PJpwMSDrMCj2BYbnc",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "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",
-  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
+  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "5826aaa5-a5e6-416d-bd26-bf54274c88f3",
   HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
   aitts_Voice_Id : process.env.AITTS_ID || "1",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "b83709a7a0691e09fbe13db39068056a",
-  WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "JORDAN-JOELSTAR 🤖",
+  WORKTYPE: process.env.WORKTYPE||process.env.MODE || "public",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "MASTERPEACE 2637 🤖",
 
 
 
