@@ -15,7 +15,7 @@
 
 <p align="center">
     <br>
-<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fjamesxtreme%2FJORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-HEROKU-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Pannelious/MASTERPEACE-2637' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-HEROKU-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 </p>
