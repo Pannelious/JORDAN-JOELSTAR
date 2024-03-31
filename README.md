@@ -63,7 +63,7 @@
 
 5.  ***DEPLOY ON HEROKU***
     <br>
-<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fjamesxtreme%2FJORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Pannelious/MASTERPEACE-2637' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
 
 6.  ***SEE TUTORIALS FOR HEROKU DEPLOY***
     <br>
