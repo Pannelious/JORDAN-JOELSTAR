@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 2,
 global.disablepm = process.env.DISABLE_PM || "true",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/b4a13299fe06a1450c1ad.jpg.mp4",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/aba00eaf92da25574b507.mp4",
 global.waPresence= process.env.WAPRESENCE ||  "available" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -64,7 +64,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©MASTERPEACE 🕸️" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Masterpeace ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://chat.whatsapp.com/LIc0X3xdxqB4SLCTRGydcy"),
+  caption : process.env.CAPTION || "©MASTERPEACE 🕸️" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Masterpeace ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://chat.whatsapp.com/Dvsj2VsVyJf829LOsEzjtJ"),
  
   author : process.env.PACK_AUTHER|| "MASTERPEACE🤖",
   packname: process.env.PACK_NAME || "MASTERPEACE🤖",
